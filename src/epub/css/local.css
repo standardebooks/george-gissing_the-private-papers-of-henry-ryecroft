@@ -28,3 +28,8 @@ blockquote[xml|lang]{
 	margin-left: 2em;
 	text-indent: 0;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
