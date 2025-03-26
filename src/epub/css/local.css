@@ -19,3 +19,12 @@
 blockquote[xml|lang]{
 	font-style: italic;
 }
+
+#chapter-1-14 blockquote p{
+	text-indent: 0;
+}
+
+#chapter-1-14 blockquote p:nth-child(2){
+	margin-left: 2em;
+	text-indent: 0;
+}
