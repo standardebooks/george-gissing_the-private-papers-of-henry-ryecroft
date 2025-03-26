@@ -25,7 +25,8 @@ blockquote[xml|lang]{
 	text-indent: 0;
 }
 
-#chapter-1-14 blockquote p:nth-child(2){
+#chapter-1-14 blockquote span{
+	display: block;
 	margin-left: 2em;
 	text-indent: 0;
 }
