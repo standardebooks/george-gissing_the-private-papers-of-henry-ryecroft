@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1463</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Private_Papers_of_Henry_Ryecroft/Dh0_AAAAYAAJ</dc:source>
-		<meta property="se:word-count">62057</meta>
+		<meta property="se:word-count">61860</meta>
 		<meta property="se:reading-ease.flesch">65.05</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Private_Papers_of_Henry_Ryecroft</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-gissing_the-private-papers-of-henry-ryecroft</meta>
