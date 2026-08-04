@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043366</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A retired Englishman muses on life and literature in his private diary.</dc:abstract>
+		<meta property="schema:abstract">A retired Englishman muses on life and literature in his private diary.</meta>
 		<dc:description>
 			&lt;p&gt;Henry Ryecroft is an older English man of letters who, upon inheriting a small legacy, retires to a small cottage in the countryside. There he writes a diary, his “private papers,” which &lt;a href="https://standardebooks.org/ebooks/george-gissing"&gt;George Gissing&lt;/a&gt; purports to have edited and published in this volume.&lt;/p&gt;
 			&lt;p&gt;In reality Ryecroft is a fictional character, and his diary is a semi-autobiographical account of Gissing’s own career as an author and literary critic, and of his personal philosophical musings. His love of nature, the English landscape, and the English national character is evident throughout, though Gissing, in his affection for the rural England of the past, doesn’t shy away from criticizing contemporary society—like the precarious financial situations many intelligent literary men find themselves in.&lt;/p&gt;
